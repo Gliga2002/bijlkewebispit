@@ -1,0 +1,122 @@
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 2rem;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%; /*10px*/
+}
+
+.header {
+  text-align: center;
+  border: 1px solid black;
+}
+
+.header h1 {
+  font-size: 3.6rem;
+  font-weight: bold;
+  padding: 1rem;
+}
+
+.wrapper-div {
+  display: grid;
+  grid-template-columns: 450px auto;
+}
+
+.wrapper-div .left-section,
+.wrapper-div .right-section {
+  border: 1px solid black;
+}
+
+.form {
+  width: 100%;
+  padding: 1rem;
+  background-color: rgb(236, 223, 223);
+  border-bottom: 2px solid black;
+}
+
+.form div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.form div label {
+  font-size: 1.5rem;
+}
+
+.form div select {
+  width: 70%;
+  padding: 0.3rem;
+}
+
+.btn-form {
+  width: 100%;
+  padding: 0.5rem;
+  text-align: center;
+  cursor: pointer;
+}
+
+.items {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1rem;
+  gap: 1.4rem;
+}
+
+.item {
+  background-color: #fff;
+  width: 15rem;
+  box-shadow: 0 2rem 5rem 1rem rgba(0, 0, 0, 0.1);
+  font-size: 1.8rem;
+  border-radius: 0.7rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 1rem;
+  animation: slide-up-fade-in 0.5s ease-in;
+  cursor: pointer;
+  transition: transform 0.3s;
+}
+
+.item:hover {
+  transform: scale(1.05);
+}
+
+@keyframes slide-up-fade-in {
+  0% {
+    opacity: 0;
+    transform: translateY(1rem);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.item img {
+  width: 15rem;
+  height: 11rem;
+  object-fit: cover;
+  border-top-left-radius: 0.7rem;
+  border-top-right-radius: 0.7rem;
+}
+
+.item div {
+  text-align: center;
+  padding: 1rem;
+}
+
+.item div p {
+  margin-bottom: 1rem;
+  font-size: 1.3rem;
+}

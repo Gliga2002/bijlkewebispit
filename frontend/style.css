@@ -1,0 +1,48 @@
+h1 {
+  text-align: center;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 0px;
+}
+
+.sadrzaj {
+  display: grid;
+  grid-template-columns: 400px auto;
+}
+
+.forma {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  border: 1px solid black;
+  height: fit-content;
+}
+
+.margin-10 {
+  margin: 10px;
+}
+
+.btn-pretrazi {
+  grid-area: 5 / 1 / 6 / 3;
+  margin: 10px;
+}
+
+.biljka {
+  border: 1px solid black;
+  border-radius: 10px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: max-content;
+  padding: 10px;
+}
+
+.btn-vidjena {
+  width: 100%;
+}
+
+.rezultati {
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid black;
+}

@@ -1,0 +1,228 @@
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\appsettings.Development.json
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\appsettings.json
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Biljke.exe
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Biljke.deps.json
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Biljke.runtimeconfig.json
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Biljke.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Biljke.pdb
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Azure.Core.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Azure.Identity.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Humanizer.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.OpenApi.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Mono.TextTemplating.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\System.CodeDom.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\System.Drawing.Common.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\System.Memory.Data.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\System.Runtime.Caching.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\System.Security.Permissions.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\System.Windows.Extensions.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\Biljke.csproj.AssemblyReference.cache
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\Biljke.GeneratedMSBuildEditorConfig.editorconfig
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\Biljke.AssemblyInfoInputs.cache
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\Biljke.AssemblyInfo.cs
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\Biljke.csproj.CoreCompileInputs.cache
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\Biljke.MvcApplicationPartsAssemblyInfo.cs
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\Biljke.MvcApplicationPartsAssemblyInfo.cache
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\staticwebassets.build.json
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\staticwebassets.development.json
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\staticwebassets\msbuild.Biljke.Microsoft.AspNetCore.StaticWebAssets.props
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\staticwebassets\msbuild.build.Biljke.props
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Biljke.props
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Biljke.props
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\staticwebassets.pack.json
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\scopedcss\bundle\Biljke.styles.css
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\Biljke.csproj.CopyComplete
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\Biljke.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\refint\Biljke.dll
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\Biljke.pdb
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\Biljke.genruntimeconfig.cache
+e:\WORK\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\ref\Biljke.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\appsettings.Development.json
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\appsettings.json
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Biljke.exe
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Biljke.deps.json
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Biljke.runtimeconfig.json
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Biljke.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Biljke.pdb
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Azure.Core.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Azure.Identity.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Humanizer.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.OpenApi.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Mono.TextTemplating.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\System.CodeDom.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\System.Drawing.Common.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\System.Memory.Data.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\System.Runtime.Caching.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\System.Security.Permissions.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\System.Windows.Extensions.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\Biljke.csproj.AssemblyReference.cache
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\Biljke.GeneratedMSBuildEditorConfig.editorconfig
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\Biljke.AssemblyInfoInputs.cache
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\Biljke.AssemblyInfo.cs
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\Biljke.csproj.CoreCompileInputs.cache
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\Biljke.MvcApplicationPartsAssemblyInfo.cs
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\Biljke.MvcApplicationPartsAssemblyInfo.cache
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\staticwebassets.build.json
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\staticwebassets.development.json
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\staticwebassets\msbuild.Biljke.Microsoft.AspNetCore.StaticWebAssets.props
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\staticwebassets\msbuild.build.Biljke.props
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Biljke.props
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Biljke.props
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\staticwebassets.pack.json
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\scopedcss\bundle\Biljke.styles.css
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\Biljke.csproj.CopyComplete
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\Biljke.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\refint\Biljke.dll
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\Biljke.pdb
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\Biljke.genruntimeconfig.cache
+g:\OneDrive\OneDrive - Faculty of Electronic Engineering\faks\work\web\vežbe\novo\časovi\11\21.12.2023\Biljke Complete\Biljke\obj\Debug\net7.0\ref\Biljke.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\appsettings.json
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Biljke.exe
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Biljke.deps.json
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Biljke.runtimeconfig.json
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Biljke.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Biljke.pdb
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\obj\Debug\net7.0\Biljke.csproj.AssemblyReference.cache
+C:\Users\Dejan\Desktop\biljke\Biljke\obj\Debug\net7.0\Biljke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejan\Desktop\biljke\Biljke\obj\Debug\net7.0\Biljke.AssemblyInfoInputs.cache
+C:\Users\Dejan\Desktop\biljke\Biljke\obj\Debug\net7.0\Biljke.AssemblyInfo.cs
+C:\Users\Dejan\Desktop\biljke\Biljke\obj\Debug\net7.0\Biljke.csproj.CoreCompileInputs.cache
+C:\Users\Dejan\Desktop\biljke\Biljke\obj\Debug\net7.0\Biljke.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dejan\Desktop\biljke\Biljke\obj\Debug\net7.0\Biljke.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dejan\Desktop\biljke\Biljke\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Dejan\Desktop\biljke\Biljke\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Dejan\Desktop\biljke\Biljke\obj\Debug\net7.0\staticwebassets\msbuild.Biljke.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dejan\Desktop\biljke\Biljke\obj\Debug\net7.0\staticwebassets\msbuild.build.Biljke.props
+C:\Users\Dejan\Desktop\biljke\Biljke\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Biljke.props
+C:\Users\Dejan\Desktop\biljke\Biljke\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Biljke.props
+C:\Users\Dejan\Desktop\biljke\Biljke\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Dejan\Desktop\biljke\Biljke\obj\Debug\net7.0\scopedcss\bundle\Biljke.styles.css
+C:\Users\Dejan\Desktop\biljke\Biljke\obj\Debug\net7.0\Biljke.csproj.CopyComplete
+C:\Users\Dejan\Desktop\biljke\Biljke\obj\Debug\net7.0\Biljke.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\obj\Debug\net7.0\refint\Biljke.dll
+C:\Users\Dejan\Desktop\biljke\Biljke\obj\Debug\net7.0\Biljke.pdb
+C:\Users\Dejan\Desktop\biljke\Biljke\obj\Debug\net7.0\Biljke.genruntimeconfig.cache
+C:\Users\Dejan\Desktop\biljke\Biljke\obj\Debug\net7.0\ref\Biljke.dll
